@@ -1,6 +1,6 @@
 # if1.Animal_Quiz-github
 A Python quiz game about animals.
-The repository demonstrates the use of functions: Modular code, and the use of  "id", "Elif", and "Else".
+The repository demonstrates the use of functions: Modular code, and the use of  "if", "Elif", and "Else".
 
 
 Requiremts
