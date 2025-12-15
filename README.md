@@ -27,7 +27,7 @@ How to play
 
 Technical documentation
 Functions:
-  ask_question() displays a question
+  ask_question() displays a question.
   run_quiz() runs the quiz loop
   Selection: Uses if, else, elif  for correct or incorrect answer
 
